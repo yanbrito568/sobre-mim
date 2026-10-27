@@ -1,0 +1,29 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ; padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(102, 106, 231);
+    padding: 40px 10px;
+    color: rgb(114, 131, 218);
+}
+
+div{
+    background-color: rgb(2, 27, 62);
+    color: rgb(251, 251, 251);
+    padding: 1%;
+    margin: 20px;
+    border: 3px solid blue;
+    border-radius: 20px;
+    box-shadow: 4px 4px 4px 4px rgba(2, 31, 105, 0.648);
+}
+
+.div1{
+    background-color: rgba(1, 25, 52, 0.749);
+}
+
+#div2{
+    background-color: cornflowerblue;
+}
